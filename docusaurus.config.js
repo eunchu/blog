@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "My Site",
   tagline: "Dinosaurs are cool",
-  url: "https://eunju.github.io",
+  url: "https://eunchu.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "eunju", // Usually your GitHub org/user name.
+  organizationName: "eunchu", // Usually your GitHub org/user name.
   projectName: "blog", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
