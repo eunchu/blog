@@ -9,7 +9,7 @@ const config = {
   title: "기술블로그",
   tagline: "eunju's blog",
   url: "https://eunchu.github.io",
-  baseUrl: "/",
+  baseUrl: "/blog/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -20,6 +20,7 @@ const config = {
   // projectName: "eunchu.github.io", // Usually your repo name.
   projectName: "blog",
   deploymentBranch: "gh-pages",
+  trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
