@@ -9,7 +9,7 @@ const config = {
   title: "기술블로그",
   tagline: "eunju's blog",
   url: "https://eunchu.github.io",
-  baseUrl: "/blog/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -75,7 +75,7 @@ const config = {
           //   position: "left",
           //   label: "Tutorial",
           // },
-          { to: "blog", label: "Blog", position: "left" }, ///blog
+          { to: "/", label: "Blog", position: "left" }, ///blog
           {
             href: "https://github.com/eunchu",
             label: "GitHub",
