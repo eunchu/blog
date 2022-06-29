@@ -1,5 +1,5 @@
 ---
-slug: welcome
+slug: recoilVSredux
 title: Recoil vs Redux 비교와 상태관리 라이브러리 선택
 authors: [eunju]
 tags: [react, recoil, redux, 상태관리]
