@@ -64,11 +64,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
-        logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
-        },
+        title: "기술블로그",
+        // logo: {
+        //   alt: "My Site Logo",
+        //   src: "img/logo.svg",
+        // },
         items: [
           // {
           //   type: "doc",
@@ -127,7 +127,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Blog.`,
       },
       prism: {
         theme: lightCodeTheme,
