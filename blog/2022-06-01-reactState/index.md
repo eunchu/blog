@@ -17,6 +17,8 @@ tags: [react, recoil, react-query, 상태관리]
 > Global State: Global Store에 정의되어 프로젝트 어디서나 접근 가능한 State<br/>
 > Server State: 서버로부터 받아오는 State
 
+<!--truncate-->
+
 ## 현재 구조
 
 **전역 상태**

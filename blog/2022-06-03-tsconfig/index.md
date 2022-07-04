@@ -7,6 +7,8 @@ tags: [typescript, setting, doc]
 
 ## tsconfig.json 옵션 정리
 
+<!--truncate-->
+
 ```json
 {
   "compilerOptions": {

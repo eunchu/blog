@@ -12,6 +12,8 @@ tags: [typescript, setting, doc]
 > Typescript 플레이그라운드 (타입스크립트 테스트)<br/>
 > 🤹‍♀️ https://www.typescriptlang.org/play
 
+<!--truncate-->
+
 ## 기능
 
 ### 1. Optional Props

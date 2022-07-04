@@ -14,6 +14,8 @@ tags: [react, recoil, redux, 상태관리]
 **[Recoil](https://recoiljs.org/ko/)**를 비교해보고
 팀원들과 공유 후 선택되는 방향으로 상태체제를 구성해보려고 한다.🙌
 
+<!--truncate-->
+
 ## Recoil vs Redux
 
 ### 1. 비교
