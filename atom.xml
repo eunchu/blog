@@ -8,7 +8,7 @@
     <subtitle>기술블로그 Blog</subtitle>
     <icon>https://eunchu.github.io/blog/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Typescript]]></title>
+        <title type="html"><![CDATA[Typescript 정리]]></title>
         <id>typescript</id>
         <link href="https://eunchu.github.io/blog/typescript"/>
         <updated>2022-06-04T00:00:00.000Z</updated>

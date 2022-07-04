@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko</language>
         <item>
-            <title><![CDATA[Typescript]]></title>
+            <title><![CDATA[Typescript 정리]]></title>
             <link>https://eunchu.github.io/blog/typescript</link>
             <guid>typescript</guid>
             <pubDate>Sat, 04 Jun 2022 00:00:00 GMT</pubDate>
