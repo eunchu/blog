@@ -42,6 +42,10 @@ const config = {
           editUrl:
             "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
+        googleAnalytics: {
+          trackingID: "G-eunju-1",
+          anonymizeIP: true,
+        },
         blog: {
           routeBasePath: "/",
           blogTitle: "기술블로그",

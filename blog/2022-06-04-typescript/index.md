@@ -1,6 +1,6 @@
 ---
 slug: typescript
-title: Typescript
+title: Typescript 정리
 authors: [eunju]
 tags: [typescript, setting, doc]
 ---
